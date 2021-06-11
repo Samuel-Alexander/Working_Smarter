@@ -1,5 +1,5 @@
 # Working Smarter
-## Using Smart Contracts to make paying employees easier 
+Using Smart Contracts to make paying employees easier 
 
 ![contract](Images/smart-contract.png)
 

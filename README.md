@@ -1,4 +1,5 @@
-"Looks like we've made our First Contract!"
+# Working Smarter
+## Using Smart Contracts to make paying employees easier 
 
 ![contract](Images/smart-contract.png)
 

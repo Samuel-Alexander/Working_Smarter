@@ -169,8 +169,6 @@ Once you are satisfied with your contract's logic, revert the fakenow testing lo
 
 <img width="204" alt="Screen Shot 2021-06-11 at 6 46 53 PM" src="https://user-images.githubusercontent.com/75221323/121759835-49412c80-caed-11eb-8a5f-41103709ef38.png">
 
-<img width="353" alt="Screen Shot 2021-06-11 at 7 31 45 PM" src="https://user-images.githubusercontent.com/75221323/121759859-65dd6480-caed-11eb-91f9-b5db6cefc71d.png">
-
 
 ## Deploy the contracts to a live Testnet
 Once you feel comfortable with your contracts, point MetaMask to the Kovan or Ropsten network. Ensure you have test Ether on this network!

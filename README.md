@@ -61,8 +61,6 @@ Test the deposit function by sending various values. Keep an eye on the employee
 
 ![Screen Shot 2021-06-11 at 4 40 04 PM](https://user-images.githubusercontent.com/75221323/121759768-054e2780-caed-11eb-9060-fb5e1edc4c90.png)
 
-![Screen Shot 2021-06-11 at 4 40 21 PM](https://user-images.githubusercontent.com/75221323/121759777-0c753580-caed-11eb-96d7-1a77d3d6226d.png)
-
 ![Screen Shot 2021-06-11 at 4 53 43 PM](https://user-images.githubusercontent.com/75221323/121759783-1434da00-caed-11eb-88d1-0da546882390.png)
 
 
